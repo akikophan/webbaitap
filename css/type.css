@@ -52,7 +52,7 @@ html{
 }
 /*het nav*/
 #home {
-    background-image:url(../img/gr1/backgrout/Background.png);
+    background-image:url(img/gr1/backgrout/Background.png);
     width: max-content;
     margin: 0 auto;
 }
