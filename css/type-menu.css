@@ -57,7 +57,7 @@ html{
 #menu-tab {
     margin-top:2%;
     padding-bottom:2%;
-    background-image: url('../img/gr1/backgrout/Background.png');
+    background-image: url('img/gr1/backgrout/Background.png');
     width: 1440px;
     margin: 0 auto;
 }
