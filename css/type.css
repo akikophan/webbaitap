@@ -1,0 +1,59 @@
+body{
+    background-color: #262626;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.clear{
+    clear: both;
+}
+.cenner{
+    margin: 0 auto;
+}
+html{
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+/*main*/
+#nav{
+    width: 100%;
+    height: 227px;
+    margin-top: 3%;
+}
+#nav-1{
+  margin-left: 13%;
+}
+#nav .img-1{
+    float: left;
+}
+#nav #menu{
+    margin-left: 10%;
+  width: 930px;
+  height: 67px;
+  border: 3px solid #e1b838;
+  vertical-align:middle;
+}
+#menu li{
+    display: inline-block;
+    text-align: center;
+}
+#menu li a{
+    display: inline-block;
+    color: #e1b838;
+    text-decoration: none;
+    line-height: 67px;
+    width: 181.45px;
+
+}
+#menu li:hover a{
+    background-color: #e1b838;
+    color: #000;
+}
+/*het nav*/
+#home {
+    background-image:url(../img/gr1/backgrout/Background.png);
+    width: max-content;
+    margin: 0 auto;
+}
+
